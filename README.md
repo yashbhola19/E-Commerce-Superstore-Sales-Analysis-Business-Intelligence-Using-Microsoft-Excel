@@ -25,3 +25,5 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel.
 
 ## Objective
 To analyze sales performance, identify business trends, and generate meaningful insights from the data.
+
+![E-Commerce Dashboard](Dashboard.png)
